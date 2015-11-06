@@ -1,0 +1,231 @@
+html{
+	font-family: 'Bitter', serif;
+}
+.button-success {
+            background: rgb(28, 184, 65); 
+            color: white;
+             text-shadow: 0 -1px 0 rgba(0,0,0,0.15);
+        }
+
+
+
+.menu-blue{
+
+}
+
+
+
+.button-disconnect{
+	color: white;
+    border-radius: 4px;
+    text-shadow: 0 -1px 0px rgba(0, 0, 0, 0.2);
+    background: rgb(41, 4, 67);
+}
+
+.border_element{
+	border: 1px solid black;
+	border-radius: 4px;
+	width: 500px;
+	height: 300px;
+	margin:auto;
+	margin-top: 70px;
+	padding:10px;
+	box-shadow: 1px 1px 1px black;
+
+}
+
+.border_element input{
+	display:inline;
+	text-align:center;
+	margin-left: 25%;
+	width: 250px;
+
+}
+
+.border_element_L{
+	border: 1px solid black;
+	border-radius: 4px;
+	width: 800px;
+	height: 600px;
+	margin:auto;
+	margin-top: 70px;
+	padding:10px;
+	box-shadow: 1px 1px 1px black;
+}
+
+.border_element_L form{
+	margin-left: 300px;
+	
+}
+.border_element_L button{
+	width: 200px;
+}
+
+.border_element_L textarea{
+	width: 400px;
+	margin-left: -100px;
+}
+
+.border_element_L input{
+	width: 200px;
+}
+
+
+.aligned{
+	width: 100px;
+}
+
+.aligned_L{
+	width: 300px;
+}
+
+.border_element_L .notaligned{
+	width: 200px;
+}
+
+
+
+.title{
+	text-align:center;
+}
+
+.subtitle{
+	text-align:center;
+	font-size: 10px;
+	margin-top: -20px;
+}
+
+.rechercher {
+	padding: 10px;
+	margin-top: 40px;
+
+}
+
+.rechercher select{
+	width: 250px;
+	margin-left:25%;
+	margin-top: 10px;
+}
+
+
+.liste_reservation{
+	margin-left:auto;
+	margin-right:auto;
+	margin-top: 30px;
+	width: 1200px;
+}
+
+.liste_reservation table{
+	width: 1000px;
+}
+
+.liste_reservation_L{
+	margin-left:auto;
+	margin-right:auto;
+	margin-top: 30px;
+	width: 1100px;
+}
+
+
+
+.erreur{
+	border: 1px solid red;
+	text-align:center;
+	margin-top:10px;
+
+}
+
+.confirmation{
+	border: 1px solid green;
+	text-align:center;
+	margin-top:10px;
+
+}
+
+ ul {
+	
+	list-style-type: none;
+}
+
+.reservation{
+	margin-top: 30px;
+	margin-left:auto;
+	margin-right:auto;
+	margin-top: 30px;
+	width: 500px;
+
+}
+
+.reservation button{
+	margin-left: 80px;
+	margin-right:auto;
+
+}
+
+.reservation_c{
+	margin-top: 30px;
+	margin-left:auto;
+	margin-right:auto;
+	margin-top: 30px;
+	width: 500px;
+
+}
+
+.reservation_c button{
+	margin-left: 150px;
+	margin-right:auto;
+
+}
+.reservation_c p{
+	text-align:center;
+}
+
+.price{
+	font-weight: bold;
+}
+
+.button-warning{
+	background-color:red;
+	  color: white;
+      text-shadow: 0 -1px 0 rgba(0,0,0,0.15);
+      width: 300px;
+}
+
+.button-validation{
+ background: rgb(28, 184, 65);
+	  color: white;
+      text-shadow: 0 -1px 0 rgba(0,0,0,0.15);
+      width: 300px;
+}
+
+.size{
+	background-color:#0078e7;
+	color:white;
+	text-shadow: 0 -1px 0 rgba(0,0,0,0.15);
+}
+
+.size a{
+	color:white;
+}
+
+.size a:hover{
+
+
+
+  background: -webkit-linear-gradient(90deg, #606c88 10%, #3f4c6b 90%); /* Chrome 10+, Saf5.1+ */
+  background:    -moz-linear-gradient(90deg, #606c88 10%, #3f4c6b 90%); /* FF3.6+ */
+  background:     -ms-linear-gradient(90deg, #606c88 10%, #3f4c6b 90%); /* IE10 */
+  background:      -o-linear-gradient(90deg, #606c88 10%, #3f4c6b 90%); /* Opera 11.10+ */
+  background:         linear-gradient(90deg, #606c88 10%, #3f4c6b 90%); /* W3C */
+        
+        
+        
+        
+}
+
+.profil {
+	width: 800px;
+	margin-top: 30px;
+	margin-left: 25%;
+}
+
